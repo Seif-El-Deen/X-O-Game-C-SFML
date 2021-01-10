@@ -1,0 +1,32 @@
+﻿  C++ Project 1.cpp
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,57): warning C4244:         with
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,57): warning C4244:         [
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,57): warning C4244:             T=float
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,57): warning C4244:         ]
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,42): warning C4244:         with
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,42): warning C4244:         [
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,42): warning C4244:             T=float
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(273,42): warning C4244:         ]
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,51): warning C4244:         with
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,51): warning C4244:         [
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,51): warning C4244:             T=float
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,51): warning C4244:         ]
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,42): warning C4244:         with
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,42): warning C4244:         [
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,42): warning C4244:             T=float
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(355,42): warning C4244:         ]
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,51): warning C4244:         with
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,51): warning C4244:         [
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,51): warning C4244:             T=float
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,51): warning C4244:         ]
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,42): warning C4244:         with
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,42): warning C4244:         [
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,42): warning C4244:             T=float
+C:\Users\Seif\source\repos\C++ Project 1\C++ Project 1\C++ Project 1.cpp(367,42): warning C4244:         ]
+  C++ Project 1.vcxproj -> C:\Users\Seif\source\repos\C++ Project 1\Debug\C++ Project 1.exe
